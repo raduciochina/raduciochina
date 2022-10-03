@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @raduciochina
 - 👀 I’m interested in learning new technologies.
-- 🌱 I’m currently learning at CSIE, Economic-Informatics 3rd year.
+- 🌱 Bachelor's Degree, Economic-Informatics.
+- 🌱 Master's Degree in progress, E-Business.
 - 📫 How to reach me https://www.linkedin.com/in/raduciochina/
 
 <!---
