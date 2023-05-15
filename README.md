@@ -2,6 +2,7 @@
 - 👀 I’m interested in learning new technologies.
 - 🌱 Bachelor's Degree, Economic-Informatics.
 - 🌱 Master's Degree in progress, E-Business.
+- 💼 Junior Software Engineer
 - 📫 How to reach me https://www.linkedin.com/in/raduciochina/
 
 <!---
